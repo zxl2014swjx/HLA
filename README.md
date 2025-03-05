@@ -1,4 +1,4 @@
-** HLA:**
+**HLA:**
 The codes and files are for the study of divergence of HLA-I
 
 **Title:**
