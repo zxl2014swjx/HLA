@@ -14,7 +14,7 @@ The major histocompatibility complex (MHC) alleles, locate in the human chromoso
 Human Leukocyte Antigen, Evolutionary Divergence, Multiple Ancestries, Blood Lymphocyte, Immune Spectrum, Disease and Aging
 
 **Contact to**:
-zxl2014swjx@126.com / zhuxiuli@big.ac.cn
+zhuxiuli@big.ac.cn / zxl2014swjx@126.com
 
 **Accessible:** 
 CodeOcean / Zenodo / Figshare
